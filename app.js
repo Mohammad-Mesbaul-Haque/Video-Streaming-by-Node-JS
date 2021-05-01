@@ -1,6 +1,6 @@
 /*
- * Title: 
- *  Description: 
+ * Title: video-streaming-by-node-js
+ *  Description: Simple video streaming page by node js
  *  Author: Mohammad Mesbaul Haque
  * Date: 01/05/2021
  *
