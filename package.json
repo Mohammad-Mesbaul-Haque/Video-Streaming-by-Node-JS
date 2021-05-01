@@ -1,0 +1,21 @@
+{
+  "name": "video-streaming-by-node-js",
+  "version": "0.0.1",
+  "description": "Simple video streaming by node js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mohammad-Mesbaul-Haque/video-streaming-by-node-js.git"
+  },
+  "keywords": [
+    "Video-stream",
+    "node",
+    "js"
+  ],
+  "author": "Mohammad Mesbaul Haque",
+  "license": "MIT"
+}
