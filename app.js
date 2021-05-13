@@ -40,7 +40,6 @@ app.get('/videos', (req, res) =>{
     const stream = fs.createReadStream(videoPath, {start, end});
     stream.pipe(res);
 
-
 })
 
 
